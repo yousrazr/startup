@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Mono&display=swap');
+
+
+
+#head{
+	background-image: url("../images/bg_header.jpg");
+	background-size: cover;
+}
+
+#header-overlay{
+	padding-bottom: 200px;
+}
+
+.header-title{
+	text-align: center;
+	margin-top: 175px;
+}
+.header-title h2{
+	font-size: 40px;
+	text-transform: uppercase;
+}
+.header-title p{
+	font-size: 20px;
+	font-family: 'DM Mono', monospace;	
+}
+.header-btns{
+	text-align: center;
+	margin-top: 40px;
+}
+.header-btns a{
+	width: 220px;
+	color: #fff;
+	text-decoration: none;
+	cursor: pointer;
+    padding: 10px 5%;
+    font-size: 20px;
+    text-transform: uppercase;
+    border-radius: 6px;   
+}
+.sec{
+	background-color: #f67575;
+
+}
+.prim{
+	background-color: #ffa34d;
+}
+.sec:hover{
+	background-color:#f67550; 
+	color: #fff !important;
+}
+.prim:hover{
+	background-color: #ffa41b;
+	color: #fff !important;
+}
+
+
+.section-title{
+	text-align: center;
+}
+.formulaire{
+	margin: 25px 15%;
+	border: 1px solid;
+	padding: 35px;
+	border-radius: 9px;
+	padding-bottom:70px;
+}
+.form-header{
+	text-align: center;
+
+}
+.btn-submit{
+	float: right;
+	background-color: green;
+	margin-top: 15px;
+	padding: 5px 35px;
+	color: #fff;
+
+
+}
+.third-section{
+	margin-top:55px;
+}
+.third-section img{
+	width: 100px;
+	height: 100px;
+	margin-left: 10px;
+}
